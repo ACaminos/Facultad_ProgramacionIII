@@ -1,0 +1,12 @@
+C:\Users\Ariel\Documents\Programacion III\BuscadorClaseII\bin\Debug\BuscadorClaseII.exe.config
+C:\Users\Ariel\Documents\Programacion III\BuscadorClaseII\bin\Debug\BuscadorClaseII.exe
+C:\Users\Ariel\Documents\Programacion III\BuscadorClaseII\bin\Debug\BuscadorClaseII.pdb
+C:\Users\Ariel\Documents\Programacion III\BuscadorClaseII\bin\Debug\BuscadorClaseII.xml
+C:\Users\Ariel\Documents\Programacion III\BuscadorClaseII\obj\Debug\BuscadorClaseII.vbprojAssemblyReference.cache
+C:\Users\Ariel\Documents\Programacion III\BuscadorClaseII\obj\Debug\BuscadorClaseII.Form1.resources
+C:\Users\Ariel\Documents\Programacion III\BuscadorClaseII\obj\Debug\BuscadorClaseII.Resources.resources
+C:\Users\Ariel\Documents\Programacion III\BuscadorClaseII\obj\Debug\BuscadorClaseII.vbproj.GenerateResource.cache
+C:\Users\Ariel\Documents\Programacion III\BuscadorClaseII\obj\Debug\BuscadorClaseII.vbproj.CoreCompileInputs.cache
+C:\Users\Ariel\Documents\Programacion III\BuscadorClaseII\obj\Debug\BuscadorClaseII.exe
+C:\Users\Ariel\Documents\Programacion III\BuscadorClaseII\obj\Debug\BuscadorClaseII.xml
+C:\Users\Ariel\Documents\Programacion III\BuscadorClaseII\obj\Debug\BuscadorClaseII.pdb
