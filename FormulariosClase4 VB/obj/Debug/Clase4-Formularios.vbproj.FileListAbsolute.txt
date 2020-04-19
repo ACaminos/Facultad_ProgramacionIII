@@ -1,0 +1,15 @@
+C:\Users\Ariel\Documents\Programacion III\Clase4-Formularios\obj\Debug\Clase4-Formularios.vbprojAssemblyReference.cache
+C:\Users\Ariel\Documents\Programacion III\Clase4-Formularios\obj\Debug\Clase4_Formularios.Form1.resources
+C:\Users\Ariel\Documents\Programacion III\Clase4-Formularios\obj\Debug\Clase4_Formularios.Resources.resources
+C:\Users\Ariel\Documents\Programacion III\Clase4-Formularios\obj\Debug\Clase4-Formularios.vbproj.GenerateResource.cache
+C:\Users\Ariel\Documents\Programacion III\Clase4-Formularios\obj\Debug\Clase4-Formularios.vbproj.CoreCompileInputs.cache
+C:\Users\Ariel\Documents\Programacion III\Clase4-Formularios\bin\Debug\Clase4-Formularios.exe.config
+C:\Users\Ariel\Documents\Programacion III\Clase4-Formularios\bin\Debug\Clase4-Formularios.exe
+C:\Users\Ariel\Documents\Programacion III\Clase4-Formularios\bin\Debug\Clase4-Formularios.pdb
+C:\Users\Ariel\Documents\Programacion III\Clase4-Formularios\bin\Debug\Clase4-Formularios.xml
+C:\Users\Ariel\Documents\Programacion III\Clase4-Formularios\obj\Debug\Clase4-Formularios.exe
+C:\Users\Ariel\Documents\Programacion III\Clase4-Formularios\obj\Debug\Clase4-Formularios.xml
+C:\Users\Ariel\Documents\Programacion III\Clase4-Formularios\obj\Debug\Clase4-Formularios.pdb
+C:\Users\Ariel\Documents\Programacion III\Clase4-Formularios\obj\Debug\Clase4_Formularios.Clientes.resources
+C:\Users\Ariel\Documents\Programacion III\Clase4-Formularios\obj\Debug\Clase4_Formularios.Listados.resources
+C:\Users\Ariel\Documents\Programacion III\Clase4-Formularios\obj\Debug\Clase4_Formularios.Proveedores.resources
