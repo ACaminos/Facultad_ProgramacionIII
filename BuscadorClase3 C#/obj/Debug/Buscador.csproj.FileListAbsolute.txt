@@ -1,0 +1,10 @@
+C:\Users\Ariel\Documents\Programacion III\Buscador\bin\Debug\Buscador.exe.config
+C:\Users\Ariel\Documents\Programacion III\Buscador\bin\Debug\Buscador.exe
+C:\Users\Ariel\Documents\Programacion III\Buscador\bin\Debug\Buscador.pdb
+C:\Users\Ariel\Documents\Programacion III\Buscador\obj\Debug\Buscador.csprojAssemblyReference.cache
+C:\Users\Ariel\Documents\Programacion III\Buscador\obj\Debug\Buscador.Form1.resources
+C:\Users\Ariel\Documents\Programacion III\Buscador\obj\Debug\Buscador.Properties.Resources.resources
+C:\Users\Ariel\Documents\Programacion III\Buscador\obj\Debug\Buscador.csproj.GenerateResource.cache
+C:\Users\Ariel\Documents\Programacion III\Buscador\obj\Debug\Buscador.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\Documents\Programacion III\Buscador\obj\Debug\Buscador.exe
+C:\Users\Ariel\Documents\Programacion III\Buscador\obj\Debug\Buscador.pdb
