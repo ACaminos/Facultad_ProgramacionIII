@@ -1,0 +1,13 @@
+C:\Users\Ariel\Documents\Programacion III\FormularioClase4CSharp\bin\Debug\FormularioClase4CSharp.exe.config
+C:\Users\Ariel\Documents\Programacion III\FormularioClase4CSharp\bin\Debug\FormularioClase4CSharp.exe
+C:\Users\Ariel\Documents\Programacion III\FormularioClase4CSharp\bin\Debug\FormularioClase4CSharp.pdb
+C:\Users\Ariel\Documents\Programacion III\FormularioClase4CSharp\obj\Debug\FormularioClase4CSharp.csprojAssemblyReference.cache
+C:\Users\Ariel\Documents\Programacion III\FormularioClase4CSharp\obj\Debug\FormularioClase4CSharp.Form1.resources
+C:\Users\Ariel\Documents\Programacion III\FormularioClase4CSharp\obj\Debug\FormularioClase4CSharp.Properties.Resources.resources
+C:\Users\Ariel\Documents\Programacion III\FormularioClase4CSharp\obj\Debug\FormularioClase4CSharp.csproj.GenerateResource.cache
+C:\Users\Ariel\Documents\Programacion III\FormularioClase4CSharp\obj\Debug\FormularioClase4CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\Documents\Programacion III\FormularioClase4CSharp\obj\Debug\FormularioClase4CSharp.exe
+C:\Users\Ariel\Documents\Programacion III\FormularioClase4CSharp\obj\Debug\FormularioClase4CSharp.pdb
+C:\Users\Ariel\Documents\Programacion III\FormularioClase4CSharp\obj\Debug\FormularioClase4CSharp.Clientes.resources
+C:\Users\Ariel\Documents\Programacion III\FormularioClase4CSharp\obj\Debug\FormularioClase4CSharp.Listado.resources
+C:\Users\Ariel\Documents\Programacion III\FormularioClase4CSharp\obj\Debug\FormularioClase4CSharp.Proveedores.resources
