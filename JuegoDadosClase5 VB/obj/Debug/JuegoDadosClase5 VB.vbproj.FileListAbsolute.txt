@@ -1,0 +1,12 @@
+C:\Users\Ariel\Desktop\JuegoDadosClase5 VB\JuegoDadosClase5 VB\bin\Debug\JuegoDadosClase5 VB.exe.config
+C:\Users\Ariel\Desktop\JuegoDadosClase5 VB\JuegoDadosClase5 VB\bin\Debug\JuegoDadosClase5 VB.exe
+C:\Users\Ariel\Desktop\JuegoDadosClase5 VB\JuegoDadosClase5 VB\bin\Debug\JuegoDadosClase5 VB.pdb
+C:\Users\Ariel\Desktop\JuegoDadosClase5 VB\JuegoDadosClase5 VB\bin\Debug\JuegoDadosClase5 VB.xml
+C:\Users\Ariel\Desktop\JuegoDadosClase5 VB\JuegoDadosClase5 VB\obj\Debug\JuegoDadosClase5 VB.vbprojAssemblyReference.cache
+C:\Users\Ariel\Desktop\JuegoDadosClase5 VB\JuegoDadosClase5 VB\obj\Debug\JuegoDadosClase5_VB.Form1.resources
+C:\Users\Ariel\Desktop\JuegoDadosClase5 VB\JuegoDadosClase5 VB\obj\Debug\JuegoDadosClase5_VB.Resources.resources
+C:\Users\Ariel\Desktop\JuegoDadosClase5 VB\JuegoDadosClase5 VB\obj\Debug\JuegoDadosClase5 VB.vbproj.GenerateResource.cache
+C:\Users\Ariel\Desktop\JuegoDadosClase5 VB\JuegoDadosClase5 VB\obj\Debug\JuegoDadosClase5 VB.vbproj.CoreCompileInputs.cache
+C:\Users\Ariel\Desktop\JuegoDadosClase5 VB\JuegoDadosClase5 VB\obj\Debug\JuegoDadosClase5 VB.exe
+C:\Users\Ariel\Desktop\JuegoDadosClase5 VB\JuegoDadosClase5 VB\obj\Debug\JuegoDadosClase5 VB.xml
+C:\Users\Ariel\Desktop\JuegoDadosClase5 VB\JuegoDadosClase5 VB\obj\Debug\JuegoDadosClase5 VB.pdb
