@@ -1,0 +1,12 @@
+C:\Users\Ariel\Desktop\ADO1\bin\Debug\ADO1.exe.config
+C:\Users\Ariel\Desktop\ADO1\bin\Debug\ADO1.exe
+C:\Users\Ariel\Desktop\ADO1\bin\Debug\ADO1.pdb
+C:\Users\Ariel\Desktop\ADO1\bin\Debug\ADO1.xml
+C:\Users\Ariel\Desktop\ADO1\obj\Debug\ADO1.vbprojAssemblyReference.cache
+C:\Users\Ariel\Desktop\ADO1\obj\Debug\ADO1.Form1.resources
+C:\Users\Ariel\Desktop\ADO1\obj\Debug\ADO1.Resources.resources
+C:\Users\Ariel\Desktop\ADO1\obj\Debug\ADO1.vbproj.GenerateResource.cache
+C:\Users\Ariel\Desktop\ADO1\obj\Debug\ADO1.vbproj.CoreCompileInputs.cache
+C:\Users\Ariel\Desktop\ADO1\obj\Debug\ADO1.exe
+C:\Users\Ariel\Desktop\ADO1\obj\Debug\ADO1.xml
+C:\Users\Ariel\Desktop\ADO1\obj\Debug\ADO1.pdb
