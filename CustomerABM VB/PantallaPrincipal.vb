@@ -6,7 +6,7 @@ Public Class PantallaPrincipal
         buscar(" CompanyName LIKE '" & tBuscar.Text & "%' ")
     End Sub
     Sub buscar(ByVal condicion As String)
-        Dim dataAdapter As New SqlDataAdapter("SELECT TOP (100) PERCENT Empresa, Customer FROM Customers WHERE " & condicion & " ORDER BY ContactName", conection) 'Aca es donde me tiraba error, y ahora ejecuto, inicio sesion y se corta automaticamente
+        Dim dataAdapter As New SqlDataAdapter("SELECT TOP (100) PERCENT CompanyName, ContactName FROM Customers WHERE " & condicion & " ORDER BY ContactName", conection) 'Aca es donde me tiraba error, y ahora ejecuto, inicio sesion y se corta automaticamente
         Dim dataSet As New DataSet
         dataAdapter.Fill(dataSet, "Customer")
         If dataSet.Tables("Customer").Rows.Count = 0 Then

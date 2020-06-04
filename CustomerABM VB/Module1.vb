@@ -13,7 +13,7 @@ Module Module1
 
     Function YaExisteSQL(ByVal sql As String) As Boolean
         Dim ar As String
-        Dim con As New SqlConnection("data source=" & CStr(Leerarchivo(ar)) & "; initial catalog=abm; integrated security=true")
+        Dim con As New SqlConnection("data source=" & CStr(Leerarchivo(ar)) & "; initial catalog=Northwind; integrated security=true")
         Dim da1 As New SqlDataAdapter(sql, con)
         Dim ds1 As New DataSet
         da1.Fill(ds1, "afidesc")
