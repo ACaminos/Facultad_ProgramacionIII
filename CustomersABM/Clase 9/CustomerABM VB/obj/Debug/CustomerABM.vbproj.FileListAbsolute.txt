@@ -1,0 +1,27 @@
+C:\Users\Ariel\Desktop\CustomerABM\bin\Debug\CustomerABM.exe.config
+C:\Users\Ariel\Desktop\CustomerABM\bin\Debug\CustomerABM.exe
+C:\Users\Ariel\Desktop\CustomerABM\bin\Debug\CustomerABM.pdb
+C:\Users\Ariel\Desktop\CustomerABM\bin\Debug\CustomerABM.xml
+C:\Users\Ariel\Desktop\CustomerABM\obj\Debug\CustomerABM.vbprojAssemblyReference.cache
+C:\Users\Ariel\Desktop\CustomerABM\obj\Debug\CustomerABM.InicioSesion.resources
+C:\Users\Ariel\Desktop\CustomerABM\obj\Debug\CustomerABM.Resources.resources
+C:\Users\Ariel\Desktop\CustomerABM\obj\Debug\CustomerABM.PantallaPrincipal.resources
+C:\Users\Ariel\Desktop\CustomerABM\obj\Debug\CustomerABM.vbproj.GenerateResource.cache
+C:\Users\Ariel\Desktop\CustomerABM\obj\Debug\CustomerABM.vbproj.CoreCompileInputs.cache
+C:\Users\Ariel\Desktop\CustomerABM\obj\Debug\CustomerABM.exe
+C:\Users\Ariel\Desktop\CustomerABM\obj\Debug\CustomerABM.xml
+C:\Users\Ariel\Desktop\CustomerABM\obj\Debug\CustomerABM.pdb
+C:\Users\Ariel\Desktop\CustomerABM VB\bin\Debug\CustomerABM.exe.config
+C:\Users\Ariel\Desktop\CustomerABM VB\bin\Debug\CustomerABM.exe
+C:\Users\Ariel\Desktop\CustomerABM VB\bin\Debug\CustomerABM.pdb
+C:\Users\Ariel\Desktop\CustomerABM VB\bin\Debug\CustomerABM.xml
+C:\Users\Ariel\Desktop\CustomerABM VB\obj\Debug\CustomerABM.vbprojAssemblyReference.cache
+C:\Users\Ariel\Desktop\CustomerABM VB\obj\Debug\CustomerABM.InicioSesion.resources
+C:\Users\Ariel\Desktop\CustomerABM VB\obj\Debug\CustomerABM.Resources.resources
+C:\Users\Ariel\Desktop\CustomerABM VB\obj\Debug\CustomerABM.PantallaPrincipal.resources
+C:\Users\Ariel\Desktop\CustomerABM VB\obj\Debug\CustomerABM.vbproj.GenerateResource.cache
+C:\Users\Ariel\Desktop\CustomerABM VB\obj\Debug\CustomerABM.vbproj.CoreCompileInputs.cache
+C:\Users\Ariel\Desktop\CustomerABM VB\obj\Debug\CustomerABM.exe
+C:\Users\Ariel\Desktop\CustomerABM VB\obj\Debug\CustomerABM.xml
+C:\Users\Ariel\Desktop\CustomerABM VB\obj\Debug\CustomerABM.pdb
+C:\Users\Ariel\Desktop\CustomerABM VB\obj\Debug\CustomerABM.Login.resources
